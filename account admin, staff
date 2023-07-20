@@ -1,3 +1,5 @@
-account admin:
 email: adminMinh@gmail.com 
 password: adminMinh
+
+email: staff@gmail.com
+password: staff
